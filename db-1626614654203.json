@@ -1,0 +1,106 @@
+{
+  "questions": [
+    {
+      "step": 1,
+      "topic": "What brings you to our site",
+      "question": "Are you looking at building your own home, or helping us build for others?",
+      "type": "selection",
+      "ans": [],
+      "btn": [
+        "I'm exploring building a home",
+        "I'd like to partner with Homebound"
+      ]
+    },
+    {
+      "step": 2,
+      "topic": "We'd love to learn more about your project",
+      "question": "Let's get started and see if Homebound is right for you.",
+      "type": "selection",
+      "btn": [
+        "Next",
+        "Previous"
+      ]
+    },
+    {
+      "step": 3,
+      "topic": "Where would you like to build?",
+      "question": "Let's see if you're in our operating markets.",
+      "type": "option",
+      "ans": [
+        "North Bay Area",
+        "South Bay Area",
+        "Easy Bay",
+        "Los Angeless Metro Area",
+        "Bahamas",
+        "Austin Metro Area",
+        "Other"
+      ],
+      "btn": [
+        "Next",
+        "Previous"
+      ],
+      "summaryTopic": "What you've told us"
+    },
+    {
+      "step": 4,
+      "topic": "Do you already have land to build on?",
+      "question": "We can help you find a lot if you don't already have one.",
+      "type": "option",
+      "ans": [
+        "I need to buy land.",
+        "I already have existing land to build on."
+      ],
+      "btn": [
+        "Next",
+        "Previous"
+      ],
+      "summaryTopic": "Land"
+    },
+    {
+      "step": 5,
+      "topic": "Do you have a budget in mind for your completed home?",
+      "question": "Our team of experts has built over 5,000+ homes collectively, over decades of working in custom home building. Our experience spans diversified builds from less than $500K to over $5M.",
+      "type": "option",
+      "ans": [
+        "Under $500K",
+        "$500K to $1 Million",
+        "$1 Million to $1.5 Million",
+        "$1.5 Million to $2 Million",
+        "Over $2 Million"
+      ],
+      "btn": [
+        "Next",
+        "Previous"
+      ],
+      "summaryTopic": "Budget"
+    },
+    {
+      "step": 6,
+      "topic": "About you",
+      "question": "We will only use your information to respond to your request.",
+      "type": "form",
+      "ans": [],
+      "btn": [
+        "Next",
+        "Previous"
+      ]
+    },
+    {
+      "step": 7,
+      "topic": "Schedule a complimentary informational meeting",
+      "desc": "Since each homeowner has unique needs, a complimentary informational meeting with a Homebound representative is where we should start.",
+      "desc2": "You don't have to prepare anything. We'll answer any questions you may have and share our unique process.",
+      "question": "Where would you like to meet?",
+      "type": "option",
+      "ans": [
+        "My current residence",
+        "Online",
+        "Connect by phone"
+      ],
+      "btn": [
+        "Next",
+        "Previous"
+      ]
+    }
+  ]
+}
